@@ -50,3 +50,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+/Assets/Scripts/LubanCode/Tables.cs
+/Assets/Scripts/LubanCode/Tables.cs.meta
+/Assets/Scripts/LubanCode.meta
+/Assets/Resources/LubanData.meta
